@@ -5,6 +5,8 @@
 
 #1ºDB
 Movie_Data.csv
+.ipynb_checkpoints
+.env
 
 
 # User-specific files
