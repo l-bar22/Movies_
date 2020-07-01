@@ -1,1 +1,3 @@
-# Movies_PublicVSExperts
+# Movies_
+Utilizo la database de IMBD sacada de Kaggle que contiene info sobre géneros cinematográficos,directores,películas,actores,recaudación...
+Se hace una limpieza de la base de datos y se hace una relación sobre varias columnas para hacer una comparativa.Como la base de datos es muy pobre utilizo la API de IMBD de RapidAPI ubteniendo el top-cast,parental-advisory-localizations.
